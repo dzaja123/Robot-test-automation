@@ -14,3 +14,9 @@ For Python3
 ```bash
 pip3 install robotframework
 ```
+
+## Usage
+```bash
+robot -d results Login.robot
+```
+

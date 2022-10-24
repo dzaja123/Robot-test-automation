@@ -1,0 +1,17 @@
+1666614798357	geckodriver	INFO	Listening on 127.0.0.1:54573
+1666614798376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5L3JSd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666614799350	Marionette	INFO	Marionette enabled
+1666614799355	Marionette	INFO	Listening on port 42069
+Read port: 42069
+WebDriver BiDi listening on ws://127.0.0.1:50689
+1666614799474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5L3JSd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:50689/devtools/browser/e01cacad-ecb9-42f5-9e40-87fd2e43b5f1
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
