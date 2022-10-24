@@ -8,15 +8,17 @@ Robot Framework is a common open-source automation framework for Acceptance Test
 For Python2
 ```bash
 pip install robotframework
+pip install robotframework-seleniumlibrary
 ```
 
 For Python3
 ```bash
 pip3 install robotframework
+pip3 install robotframework-seleniumlibrary
 ```
 
 ## Usage
 ```bash
-robot -d results Login.robot
+robot -d results .\features\Login.robot
 ```
 
