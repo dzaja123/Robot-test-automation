@@ -31,7 +31,7 @@ A user enters the password
     Input Text    ${PASSWORD_FIELD}    ${password}
 
 A user clicks on the login button
-     Click Button    ${LOGIN_BUTTON} 
+    Click Button    ${LOGIN_BUTTON} 
 
 A user is logged in
     Location Should Be    ${SHOP_PAGE_URL}
