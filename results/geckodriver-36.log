@@ -1,9 +1,0 @@
-1666614943794	geckodriver	INFO	Listening on 127.0.0.1:44871
-1666614944308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec1H3T2"
-ATTENTION: default value of option mesa_glthread overridden by environment.
-ATTENTION: default value of option mesa_glthread overridden by environment.
-ATTENTION: default value of option mesa_glthread overridden by environment.
-ATTENTION: default value of option mesa_glthread overridden by environment.
-1666614945395	Marionette	INFO	Marionette enabled
-1666614945399	Marionette	INFO	Listening on port 36307
-Read port: 36307
