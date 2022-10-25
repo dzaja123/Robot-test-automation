@@ -23,7 +23,7 @@ Blocked Login
     A user enters the username  ${BLOCKED_USERNAME}
     A user enters the password  ${CORRECT_PASSWORD}
     A user clicks on the login button
-    The error message is displayed  "Epic sadface: Sorry, this user has been locked out."
+    The error message is displayed  Epic sadface: Sorry, this user has been locked out.
 
 Incorrect Username Login
     [documentation]  This test case verifies that user is not able to successfully Login with wrong username 
@@ -31,7 +31,7 @@ Incorrect Username Login
     A user enters the username  testUsername
     A user enters the password  ${CORRECT_PASSWORD}
     A user clicks on the login button
-    The error message is displayed  "Epic sadface: Username and password do not match any user in this service"
+    The error message is displayed  Epic sadface: Username and password do not match any user in this service
 
 Incorrect Password Login
     [documentation]  This test case verifies that user is not able to successfully Login with wrong password
@@ -39,4 +39,4 @@ Incorrect Password Login
     A user enters the username  ${CORRECT_USERNAME}
     A user enters the password  testPassword
     A user clicks on the login button
-    The error message is displayed  "Epic sadface: Username and password do not match any user in this service"
+    The error message is displayed  Epic sadface: Username and password do not match any user in this service
