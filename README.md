@@ -18,7 +18,15 @@ pip3 install robotframework-seleniumlibrary
 ```
 
 ## Usage
+
+For Login Feature
 ```bash
 robot -d results .\features\Login.robot
 ```
+
+For Cart Feature
+```bash
+robot -d results .\features\Cart.robot
+```
+
 

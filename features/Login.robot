@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation  Login page will work depending on the user credentials.
-Resource          functions.robot 
+Resource          login_functions.robot 
 Test Teardown     Close Browser
 
 *** Variables ***
