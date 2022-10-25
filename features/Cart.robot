@@ -3,9 +3,6 @@ Documentation  Login page will work depending on the user credentials.
 Resource          cart_functions.robot 
 Test Teardown     Close Browser
 
-*** Variables ***
-
-
 *** Test Cases ***
 User is able to add item to cart
     [documentation]  This test case verifies that user is able to successfully add item to the cart 
