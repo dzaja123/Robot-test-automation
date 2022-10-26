@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation  Login page will work depending on the user credentials.
-Resource          cart_functions.robot 
+Resource          ../functions/cart_functions.robot 
 Test Teardown     Close Browser
 
 *** Test Cases ***
